@@ -1,0 +1,16 @@
+C:\Users\cda4\Documents\AnhkProject\AnhkController\bin\Debug\net8.0-windows\AnhkController.exe
+C:\Users\cda4\Documents\AnhkProject\AnhkController\bin\Debug\net8.0-windows\AnhkController.deps.json
+C:\Users\cda4\Documents\AnhkProject\AnhkController\bin\Debug\net8.0-windows\AnhkController.runtimeconfig.json
+C:\Users\cda4\Documents\AnhkProject\AnhkController\bin\Debug\net8.0-windows\AnhkController.dll
+C:\Users\cda4\Documents\AnhkProject\AnhkController\bin\Debug\net8.0-windows\AnhkController.pdb
+C:\Users\cda4\Documents\AnhkProject\AnhkController\obj\Debug\net8.0-windows\AnhkController.Form1.resources
+C:\Users\cda4\Documents\AnhkProject\AnhkController\obj\Debug\net8.0-windows\AnhkController.csproj.GenerateResource.cache
+C:\Users\cda4\Documents\AnhkProject\AnhkController\obj\Debug\net8.0-windows\AnhkController.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cda4\Documents\AnhkProject\AnhkController\obj\Debug\net8.0-windows\AnhkController.AssemblyInfoInputs.cache
+C:\Users\cda4\Documents\AnhkProject\AnhkController\obj\Debug\net8.0-windows\AnhkController.AssemblyInfo.cs
+C:\Users\cda4\Documents\AnhkProject\AnhkController\obj\Debug\net8.0-windows\AnhkController.csproj.CoreCompileInputs.cache
+C:\Users\cda4\Documents\AnhkProject\AnhkController\obj\Debug\net8.0-windows\AnhkController.dll
+C:\Users\cda4\Documents\AnhkProject\AnhkController\obj\Debug\net8.0-windows\refint\AnhkController.dll
+C:\Users\cda4\Documents\AnhkProject\AnhkController\obj\Debug\net8.0-windows\AnhkController.pdb
+C:\Users\cda4\Documents\AnhkProject\AnhkController\obj\Debug\net8.0-windows\AnhkController.genruntimeconfig.cache
+C:\Users\cda4\Documents\AnhkProject\AnhkController\obj\Debug\net8.0-windows\ref\AnhkController.dll
